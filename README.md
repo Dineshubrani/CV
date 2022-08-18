@@ -7,14 +7,14 @@
 </head>
 
 <body>
-  <a href="google.com">google</a><br>
+  <br>
   <table cellspacing="20">
     <hr>
     <tr>
       <td> <img src="WhatsApp Image 2022-08-12 at 9.32.21 PM.jpeg" alt="not available" height="225"></td>
       <td>
         <h1>Dinesh Ubrani</h1>
-        <p><em>Second Year engineering student at <strong>VESIT</strong></em></p>
+        <p><em>Second Year engineering student at <strong><a href="https://vesit.ves.ac.in/">VESIT</a></strong></em></p>
 
         <p>I am learning Html along with other launguages such as css, java, dsa, javascript.
           It's going good so far</p>
